@@ -19,9 +19,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MayanGit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=false&order=2" height="141" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=MayanGit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=gotham&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=MayanGit&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=10&order=3" height="145" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MayanGit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=false&order=2" height="100" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MayanGit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=gotham&locale=en&hide_border=false&order=1" height="120" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=MayanGit&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=10&order=3" height="100vw" alt="streak graph"  />
 </div>
 
 ###
@@ -38,14 +38,14 @@
 
 ###
 
-<img align="right" height="165" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MayanGit/MayanGit/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MayanGit/MayanGit/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MayanGit/MayanGit/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MayanGit/MayanGit/output/pacman-contribution-graph.svg" height="125">
 </picture>
 
 ###
