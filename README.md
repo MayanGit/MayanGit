@@ -1,4 +1,4 @@
-<h1 align="center">Estatísticas 🧮</h1>
+<h2 align="center">Estatísticas 🧮</h2>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<h1 align="center">Contatos 🔍</h1>
+<h2 align="center">Contatos 🔍</h2>
 
 ###
 
