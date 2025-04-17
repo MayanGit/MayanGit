@@ -19,9 +19,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MayanGit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=false&order=2" height="100" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=MayanGit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=gotham&locale=en&hide_border=false&order=1" height="120" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=MayanGit&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=10&order=3" height="100vw" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MayanGit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=false&order=2" height="110" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MayanGit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=gotham&locale=en&hide_border=false&order=1" height="130" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=MayanGit&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=10&order=3" height="110" alt="streak graph"  />
 </div>
 
 ###
@@ -31,9 +31,9 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="15%" height="30" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="20%" height="30" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="15%" height="30" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="30" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="30" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="30" alt="gmail logo"  />
 </div>
 
 ###
@@ -45,7 +45,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MayanGit/MayanGit/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MayanGit/MayanGit/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MayanGit/MayanGit/output/pacman-contribution-graph.svg" width="65%" >
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MayanGit/MayanGit/output/pacman-contribution-graph.svg" width="80%" >
 </picture>
 
 ###
