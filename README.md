@@ -26,7 +26,7 @@
 
 ###
 
-<h1 align="left">Contatos 🔍</h1>
+<h1 align="center">Contatos 🔍</h1>
 
 ###
 
