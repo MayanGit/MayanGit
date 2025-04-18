@@ -1,3 +1,10 @@
+
+<div align="center">
+<img align="center" height="300" src="https://sdmntprwestus.oaiusercontent.com/files/00000000-a58c-6230-9325-6edc69a6c9f0/raw?se=2025-04-18T19%3A51%3A22Z&sp=r&sv=2024-08-04&sr=b&scid=4bbe3032-5332-5ba4-9994-bd99f52f268a&skoid=e825dac8-9fae-4e05-9fdb-3d74e1880d5a&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-18T10%3A55%3A25Z&ske=2025-04-19T10%3A55%3A25Z&sks=b&skv=2024-08-04&sig=3Dpq3CsiFvoMxOsOBynK2I01QMXrBGDc11Lc4wvnIeg%3D" />
+</div>
+
+###
+
 <h2 align="center">Estatísticas 🧮</h2>
 
 ###
@@ -37,15 +44,10 @@
 
 ###
 
-<img align="right" height="110" src="![3x4_image](https://github.com/user-attachments/assets/95c30d0d-bd6b-4301-8d32-ad239e549e22)
-"  />
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MayanGit/MayanGit/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MayanGit/MayanGit/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MayanGit/MayanGit/output/pacman-contribution-graph.svg" width="82%" >
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MayanGit/MayanGit/output/pacman-contribution-graph.svg" width="100%vw" >
 </picture>
 
 ###
