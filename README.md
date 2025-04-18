@@ -7,7 +7,7 @@
 ###
 
 <div align="left">
-   </br><h4> E aí! 👋 Eu sou o Mayan Santos, dev em formação e fã de esportes</h4></br>
+   <h3> E aí! 👋 Eu sou o Mayan Santos, dev em formação e fã de esportes</h3></br>
   
   <a>Tenho 21 anos e sou estudante de Desenvolvimento de Software Multiplataforma na Fatec. Também faço parte do Instituto PROA, onde venho aprendendo não só sobre tecnologia, mas também sobre o mercado, soft skills e como me tornar um profissional mais completo.</br>
   Sou apaixonado por programar e por estar sempre aprendendo, especialmente quando o assunto envolve gestão, finanças e, claro, tecnologia.</br>
