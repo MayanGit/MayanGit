@@ -37,7 +37,8 @@
 
 ###
 
-<img align="right" height="110" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="110" src="![3x4_image](https://github.com/user-attachments/assets/95c30d0d-bd6b-4301-8d32-ad239e549e22)
+"  />
 
 ###
 
