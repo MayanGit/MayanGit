@@ -2,12 +2,12 @@
 
 ###
 
- <img align="right" height="240" src="https://sdmntprwestus.oaiusercontent.com/files/00000000-a58c-6230-9325-6edc69a6c9f0/raw?se=2025-04-18T19%3A51%3A22Z&sp=r&sv=2024-08-04&sr=b&scid=4bbe3032-5332-5ba4-9994-bd99f52f268a&skoid=e825dac8-9fae-4e05-9fdb-3d74e1880d5a&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-18T10%3A55%3A25Z&ske=2025-04-19T10%3A55%3A25Z&sks=b&skv=2024-08-04&sig=3Dpq3CsiFvoMxOsOBynK2I01QMXrBGDc11Lc4wvnIeg%3D" />
+ <img align="right" height="250" src="https://sdmntprwestus.oaiusercontent.com/files/00000000-a58c-6230-9325-6edc69a6c9f0/raw?se=2025-04-18T19%3A51%3A22Z&sp=r&sv=2024-08-04&sr=b&scid=4bbe3032-5332-5ba4-9994-bd99f52f268a&skoid=e825dac8-9fae-4e05-9fdb-3d74e1880d5a&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-18T10%3A55%3A25Z&ske=2025-04-19T10%3A55%3A25Z&sks=b&skv=2024-08-04&sig=3Dpq3CsiFvoMxOsOBynK2I01QMXrBGDc11Lc4wvnIeg%3D" />
  
 ###
 
 <div align="left">
-   <h4> E aí! 👋 Eu sou o Mayan Santos, dev em formação e fã de esportes</h4>
+   </br><h4> E aí! 👋 Eu sou o Mayan Santos, dev em formação e fã de esportes</h4></br>
   
   <a>Tenho 21 anos e sou estudante de Desenvolvimento de Software Multiplataforma na Fatec. Também faço parte do Instituto PROA, onde venho aprendendo não só sobre tecnologia, mas também sobre o mercado, soft skills e como me tornar um profissional mais completo.</br>
   Sou apaixonado por programar e por estar sempre aprendendo, especialmente quando o assunto envolve gestão, finanças e, claro, tecnologia.</br>
