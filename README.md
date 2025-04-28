@@ -11,7 +11,7 @@
   
   <a>Tenho 21 anos e sou estudante de Desenvolvimento de Software Multiplataforma na Fatec. Também faço parte do Instituto PROA, onde venho aprendendo não só sobre tecnologia, mas também sobre o mercado, soft skills e como me tornar um profissional mais completo.</br>
   Sou apaixonado por programar e por estar sempre aprendendo, especialmente quando o assunto envolve gestão, finanças e, claro, tecnologia.</br>
-  Nas horas vagas, gosto de jogar todos os tipos dejogos, assistir filmes e praticar esportes.</br>
+  Nas horas vagas, gosto de jogar todos os tipos de jogos, assistir filmes e praticar esportes.</br>
   Aqui no GitHub você encontra meus projetos, estudos e experiências. Bora codar?🚀
   </a>
   
